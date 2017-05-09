@@ -16,55 +16,95 @@ Columbia University
 
 ---
 
-x commodity A = y commodity B (139)  
+x commodity A = y commodity B   
   
 <br>
 
-M-C-M and C-M-C (248)  
+M-C-M and C-M-C  
   
 <br>
   
 
 Working Day I: A——B-C  
 Working Day II: A——B—C  
-Working Day III:A——B——C (342)  
+Working Day III: A——B——C 
+
+Karl Marx, *Capital*, Vol.1, (1867)  
 
 ---
  
-The social statistics of Germany and the rest of Continental Western Europe, are, in comparison with those of England, quite wretched. But they raise the veil just enough to let us catch <span class="fragment highlight-red">a glimpse of the Medusa’s head behind it.</span>  <span class="fragment">We should be appalled at our own circumstances, if, as in England, our governments and parliaments periodically appointed commissions of inquiry into economic conditions; if these commissions were armed with the same plenary powers to get at the truth; if it was possible to find for this purpose men as competent, as free from partisanship and respect of persons as are England's factory-inspectors, her medical reporters on public health, her commissioners of inquiry into the exploitation of women and children, into the conditions of housing and nourishment, and so on.  <span class="fragment highlight-red">Perseus wore a magic cap so that the monsters he hunted down might not see him. We draw the magic cap down over our own eyes and ears so as to deny that there are any monsters. (91) </span> </span>
+The social statistics of Germany and the rest of Continental Western Europe, are, in comparison with those of England, quite wretched. But they raise the veil just enough to let us catch <span class="fragment highlight-red">a glimpse of the Medusa’s head behind it.</span>  <span class="fragment">We should be appalled at our own circumstances, if, as in England, our governments and parliaments periodically appointed commissions of inquiry into economic conditions; if these commissions were armed with the same plenary powers to get at the truth; if it was possible to find for this purpose men as competent, as free from partisanship and respect of persons as are England's factory-inspectors, her medical reporters on public health, her commissioners of inquiry into the exploitation of women and children, into the conditions of housing and nourishment, and so on.  <span class="fragment highlight-red">Perseus wore a magic cap so that the monsters he hunted down might not see him. We draw the magic cap down over our own eyes and ears so as to deny that there are any monsters. </span> </span>
+<span style='font-size:20px'> Karl Marx, "Preface to the First Edition," *Capital*, Vol.1, 1867 (trans. Ben Fowkes), 91.</span>
 
 ---
 
-![image](../images/money-form.png)  
-Fig. 1: "Form D: The Money Form" *Das Kapital* (1872) 46, *Capital* 162
-
----
-
-
-![image](../images/forma.png)  
-Form A  *Das Kapital* (1872) and *Capital* 
-
-<p class="fragment"> ![image](../images/formb.png)  
-Form B  *Das Kapital* (1872) and *Capital* </p>
+![image](../images/money-form-english.png)  
+Marx, "Form D: The Money Form"  
+Left to right: *Capital* Vol.1, 162, *Das Kapital* (1872) 46
 
 ---
 
 
-![image](../images/formc.png)  
-Form C: "The General Form of Value." *Das Kapital* (1872) 41, *Capital* 157
+![image](../images/forma-english.png)
+![image](../images/forma-german.png)  
+Marx, "Form A: The Simple, Isolated, or Accidental Form of Value"  
+Top to bottom: *Capital* Vol.1, 139;  *Das Kapital* (1872)
 
-<p class="fragment"> ![image](../images/money-form.png)  
-Form D: "The Money Form" *Das Kapital* (1872) 46, *Capital* 162 </p>
+---
+
+![image](../images/formb-english.png)
+![image](../images/formb-german.png)  
+Marx, "Form B: The Total or Expanded Form of Value"  
+Top to bottom: *Capital* Vol.1, 154-155; *Das Kapital* (1872)
+
+---
+
+
+![image](../images/formc-english.png)  
+Marx, "Form C: The General Form of Value"  
+Left to right: *Capital* Vol. 1, 157, *Das Kapital* (1872), 41
+
+<p class="fragment"> ![image](../images/money-form-english.png)  
+Marx, "Form D: The Money Form"  
+Left to right: *Capital* Vol.1, 162, *Das Kapital* (1872), 46 </p>
+
+---
+
+![image](../images/forma-english.png)  
+<span class="fragment"> ![image](../images/formb-english.png)</span>  
+<span class="fragment"> ![image](../images/formc-just-english.png)</span> <span class="fragment"> ![image](../images/money-form-just-english.png)  </span>  
+Top to bottom: Form A, B, C, and D of the commodity, *Capital* vol. 1, 139, 154-5,157, 162
 
 ---
 
 ![image](../images/housing.png)  
-Housing data from Langstroff *Das Kapital* (1872) 46, *Capital* 162
+Marx, Housing data  
+Top, left to right: Lincolnshire, *Das Kapital*  722, *Capital* Vol.1,  846-847  
+Bottom: Kent *Das Kapital*  722, *Capital* Vol.1,  846-847
+
+---
+
+![image](../images/dk-721-722-pagespread.png)  
+Marx,  *Das Kapital*  721-722
 
 ---
 
 ![image](../images/tableE-small.png)  
-Table E: Schedule D Income from Profits (over 60 £) in Ireland” *DK* 735, *C* 859
+"Table E: Schedule D Income from Profits (over 60 £) in Ireland"
+Left to right : *Das Kapital* 735, *Capital* Vol.1,  859
+
+---
+
+We saw from Table E that during 1864, out of a total profit of 4,368,610, three money-grubbers pocketed only 262,610. 
+[...] But the lion's share of the yearly national rental which an inconceivably small number of land magnates in England, Scotland, and Ireland swallow up is so monstrous that English statesmanship finds it inappropriate to afford the same statistical materials about the distribution of rents as about the distribution of profits. Lord Dufferin is one of those land magnates. The rent-rolls and profits can ever be 'excessive' or that the plethora of rent trolls and profits is in any way connected with the plethora of popular miseries, is of course, an idea as 'disreputable' as it is unsound'. 
+
+Marx, *Capital* Vol.1, 868
+
+---
+
+![image](../images/farms.png)   
+And, as appetite grows with eating, Rent Roll's eyes will soon discover that Ireland with 3 1/2 millions, still continues to be miserable, miserable because she is overpopulated.  
+Marx, *Capital* Vol.1, 869
 
 ---
 
