@@ -95,32 +95,6 @@ Top to bottom:  A (Simple), B (Total), C (General), and D (Money) Form of Value,
 ---
 
 
-![image](../images/forma-english.png)
-![image](../images/forma-german.png)  
-Marx, "Form A: The Simple, Isolated, or Accidental Form of Value"  
-Top to bottom: *Capital* Vol.1, 139;  *Das Kapital* (1872), 23
-
----
-
-
-![image](../images/formb-english.png)
-![image](../images/formb-german.png)  
-Marx, "Form B: The Total or Expanded Form of Value"  
-Top to bottom: *Capital* Vol.1, 154-155; *Das Kapital* (1872), 38
-
----
-
-
-![image](../images/formc-just-english.png) ![image](../images/formc-german.png)  
-Marx, "Form C: The General Form of Value"  
-Left to right: *Capital* Vol. 1, 157, *Das Kapital* (1872), 41
-
-<p class="fragment"> ![image](../images/money-form-just-english.png) ![image](../images/money-form-german.png)  
-Marx, "Form D: The Money Form"  
-Left to right: *Capital* Vol.1, 162, *Das Kapital* (1872), 46 </p>
-
----
-
 ![image](../images/housing.png)  
 Marx, Housing data  
 Top, left to right: Lincolnshire, *Das Kapital*  722, *Capital* Vol.1,  846-847  
