@@ -4,15 +4,20 @@ separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: serif2
 revealOptions:
-    transition: 'fade'
+    transition: 'slide'
 ---
 
 
 
  
 <p style='font-size:44px;'> Marx's Gothic Data</p>
+
+<br>
+
 Sierra Eckert  
 Columbia University  
+@sierraeckert | sierra.eckert@columbia.edu  
+NAVSA/AVSA NYU/Purdue 2017, Florence, Italy
 
 ---
 
@@ -28,19 +33,26 @@ M-C-M and C-M-C
 Working Day I: A——B-C  
 Working Day II: A——B—C  
 Working Day III: A——B——C 
+  
+<br>
 
-Karl Marx, *Capital*, Vol.1, (1867)  
+<p style='font-size:20px'>Karl Marx, *Capital*, Vol.1, (1867) </p>
+
+---
+
+This section incorporates, in my view, a lot of boring material that canall too easily mask the significance of the argument being made. Marxsometimes puts on, as I pointed out earlier, an accountant's hat, andthe result is a form of exposition that can be tedious in the extreme:when this equals that and that equals this and this costs three penceand this fifteen, then the result is that something else is equivalent to . .. and so it goes, with the help of all manner of numerical illustrations tofollow.
+
+<br>
+
+<p style='font-size:20px'>David Harvey,, *A Companion to Marx's* Capital, 30 (referring to *Capital*, chapter 1, section 3: The Value-Form)</p>
 
 ---
  
 The social statistics of Germany and the rest of Continental Western Europe, are, in comparison with those of England, quite wretched. But they raise the veil just enough to let us catch <span class="fragment highlight-red">a glimpse of the Medusa’s head behind it.</span>  <span class="fragment">We should be appalled at our own circumstances, if, as in England, our governments and parliaments periodically appointed commissions of inquiry into economic conditions; if these commissions were armed with the same plenary powers to get at the truth; if it was possible to find for this purpose men as competent, as free from partisanship and respect of persons as are England's factory-inspectors, her medical reporters on public health, her commissioners of inquiry into the exploitation of women and children, into the conditions of housing and nourishment, and so on.  <span class="fragment highlight-red">Perseus wore a magic cap so that the monsters he hunted down might not see him. We draw the magic cap down over our own eyes and ears so as to deny that there are any monsters. </span> </span>
-<span style='font-size:20px'> Karl Marx, "Preface to the First Edition," *Capital*, Vol.1, 1867 (trans. Ben Fowkes), 91.</span>
+  
+<br>
 
----
-
-![image](../images/money-form-english.png)  
-Marx, "Form D: The Money Form"  
-Left to right: *Capital* Vol.1, 162, *Das Kapital* (1872) 46
+<p style='font-size:20px'> Karl Marx, "Preface to the First Edition," *Capital*, Vol.1, 1867 (trans. Ben Fowkes), 91.</p>
 
 ---
 
@@ -48,32 +60,64 @@ Left to right: *Capital* Vol.1, 162, *Das Kapital* (1872) 46
 ![image](../images/forma-english.png)
 ![image](../images/forma-german.png)  
 Marx, "Form A: The Simple, Isolated, or Accidental Form of Value"  
-Top to bottom: *Capital* Vol.1, 139;  *Das Kapital* (1872)
+Top to bottom: *Capital* Vol.1, 139;  *Das Kapital* (1872), 23
 
 ---
 
-![image](../images/formb-english.png)
-![image](../images/formb-german.png)  
-Marx, "Form B: The Total or Expanded Form of Value"  
-Top to bottom: *Capital* Vol.1, 154-155; *Das Kapital* (1872)
-
----
-
-
-![image](../images/formc-english.png)  
-Marx, "Form C: The General Form of Value"  
-Left to right: *Capital* Vol. 1, 157, *Das Kapital* (1872), 41
-
-<p class="fragment"> ![image](../images/money-form-english.png)  
+![image](../images/money-form-just-english.png) ![image](../images/money-form-german.png)  
 Marx, "Form D: The Money Form"  
-Left to right: *Capital* Vol.1, 162, *Das Kapital* (1872), 46 </p>
+Left to right: *Capital* Vol.1, 162, *Das Kapital* (1872) 46
+
 
 ---
+
 
 ![image](../images/forma-english.png)  
 <span class="fragment"> ![image](../images/formb-english.png)</span>  
 <span class="fragment"> ![image](../images/formc-just-english.png)</span> <span class="fragment"> ![image](../images/money-form-just-english.png)  </span>  
-Top to bottom: Form A, B, C, and D of the commodity, *Capital* vol. 1, 139, 154-5,157, 162
+Top to bottom:  A (Simple), B (Total), C (General), and D (Money) Form of Value, *Capital* vol. 1, 139, 154-5,157, 162
+
+---
+
+![image](../images/forma-german.png)  
+<span class="fragment"> ![image](../images/formb-german.png)</span>  
+<span class="fragment"> ![image](../images/formc-german.png)</span> <span class="fragment"> ![image](../images/money-form-german.png)  </span>  
+Top to bottom: A (Einfache), B (Totale), C (Allgemeine), and D (Geld) Werthform, *Das Kapital* vol. 1, 23, 38, 41, 46
+
+---
+
+
+![image](../images/forma-english.png)  
+<span class="fragment"> ![image](../images/formb-english.png)</span>  
+<span class="fragment"> ![image](../images/formc-just-english.png)</span> <span class="fragment"> ![image](../images/money-form-just-english.png)  </span>  
+Top to bottom:  A (Simple), B (Total), C (General), and D (Money) Form of Value, *Capital* vol. 1, 139, 154-5,157, 162
+
+---
+
+
+![image](../images/forma-english.png)
+![image](../images/forma-german.png)  
+Marx, "Form A: The Simple, Isolated, or Accidental Form of Value"  
+Top to bottom: *Capital* Vol.1, 139;  *Das Kapital* (1872), 23
+
+---
+
+
+![image](../images/formb-english.png)
+![image](../images/formb-german.png)  
+Marx, "Form B: The Total or Expanded Form of Value"  
+Top to bottom: *Capital* Vol.1, 154-155; *Das Kapital* (1872), 38
+
+---
+
+
+![image](../images/formc-just-english.png) ![image](../images/formc-german.png)  
+Marx, "Form C: The General Form of Value"  
+Left to right: *Capital* Vol. 1, 157, *Das Kapital* (1872), 41
+
+<p class="fragment"> ![image](../images/money-form-just-english.png) ![image](../images/money-form-german.png)  
+Marx, "Form D: The Money Form"  
+Left to right: *Capital* Vol.1, 162, *Das Kapital* (1872), 46 </p>
 
 ---
 
@@ -96,15 +140,24 @@ Left to right : *Das Kapital* 735, *Capital* Vol.1,  859
 ---
 
 We saw from Table E that during 1864, out of a total profit of 4,368,610, three money-grubbers pocketed only 262,610. 
-[...] But the lion's share of the yearly national rental which an inconceivably small number of land magnates in England, Scotland, and Ireland swallow up is so monstrous that English statesmanship finds it inappropriate to afford the same statistical materials about the distribution of rents as about the distribution of profits. Lord Dufferin is one of those land magnates. The rent-rolls and profits can ever be 'excessive' or that the plethora of rent trolls and profits is in any way connected with the plethora of popular miseries, is of course, an idea as 'disreputable' as it is unsound'. 
+[...] But the lion's share of the yearly national rental which an inconceivably small number of land magnates in England, Scotland, and Ireland swallow up is so monstrous that English statesmanship finds it inappropriate to afford the same statistical materials about the distribution of rents as about the distribution of profits. Lord Dufferin is one of those land magnates. The rent-rolls and profits can ever be 'excessive' or that the plethora of rent-rolls and profits is in any way connected with the plethora of popular miseries, is of course, an idea as 'disreputable' as it is unsound'. 
+  
+<br>
 
-Marx, *Capital* Vol.1, 868
+<p style='font-size:20px'> Marx, *Capital* Vol.1, 868</p>
 
 ---
 
-![image](../images/farms.png)   
-And, as appetite grows with eating, Rent Roll's eyes will soon discover that Ireland with 3 1/2 millions, still continues to be miserable, miserable because she is overpopulated.  
+![image](../images/farms.png)  
 Marx, *Capital* Vol.1, 869
+
+---
+
+And, as appetite grows with eating, Rent Roll's eyes will soon discover that Ireland with 3 1/2 millions, still continues to be miserable, miserable because she is overpopulated.  
+
+<br>
+
+<span style='font-size:20px'> Marx, *Capital* Vol.1, 869 </span>
 
 ---
 
