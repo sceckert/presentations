@@ -122,9 +122,21 @@ Marx,  *Das Kapital*  721-722
 
 ---
 
+![image](../images/tableD-small.png)   
 ![image](../images/tableE-small.png)  
-"Table E: Schedule D Income from Profits (over 60 £) in Ireland"
-Left to right : *Das Kapital* 735, *Capital* Vol.1,  859
+Top to bottom, left to right:  
+"Table D The Income Tax on Subjoined Income, in Pounds Sterling,"   
+"Table E: Schedule D Income from Profits (over 60 £) in Ireland,""  
+Left to right : *Das Kapital* 734-735, *Capital* Vol.1,  858-9
+
+---
+
+![image](../images/tableD.png)  
+![image](../images/tableE-full.png) ![image](../images/avg.png)    
+Top to bottom, left to right:  
+Table D The Income Tax on Subjoined Income, in Pounds Sterling,  
+Table E: Schedule D Income from Profits (over 60 £) in Ireland,  
+Average Weekly Cost of Maintenance Per Head, *Das Kapital* 735, *Capital* Vol.1,  858, 859, 863
 
 ---
 
@@ -150,6 +162,9 @@ These slides were made using [reveal.js](https://github.com/hakimel/reveal.js/) 
 
 ## References ##
 
+<p style='font-size:20px;'>Brooks, Peter. *The Melodramatic Imagination: Balzac, Henry James, Melodrama, and the Mode of Excess.* Yale University Press, 1976. Print. </p>
+
+<p style='font-size:20px;'> Botting, Fred. *The Gothic*: 
 <p style='font-size:20px;'> Cvetkovich, Ann. “Marx’s Capital and the Mystery of the Commodity.” *Mixed Feelings: Feminism, Mass Culture, and Victorian Sensationalism*. New Brunswick, N.J: Rutgers University Press, 1992. Print. </p>
 
 <p style='font-size:20px;'>Derrida, Jacques. *Specters of Marx: The State of the Debt, the Work of Mourning and the New International.* London: Routledge, 2012. Print.</p>
