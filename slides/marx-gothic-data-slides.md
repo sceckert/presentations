@@ -40,11 +40,18 @@ Working Day III: A——B——C
 
 ---
 
-This section incorporates, in my view, a lot of boring material that canall too easily mask the significance of the argument being made. Marxsometimes puts on, as I pointed out earlier, an accountant's hat, andthe result is a form of exposition that can be tedious in the extreme:when this equals that and that equals this and this costs three penceand this fifteen, then the result is that something else is equivalent to . .. and so it goes, with the help of all manner of numerical illustrations tofollow.
+This section incorporates, in my view, a lot of boring material that can
+all too easily mask the significance of the argument being made. Marx
+sometimes puts on, as I pointed out earlier, an accountant's hat, and
+the result is a form of exposition that can be tedious in the extreme:
+when this equals that and that equals this and this costs three pence
+and this fifteen, then the result is that something else is equivalent to . .
+. and so it goes, with the help of all manner of numerical illustrations to
+follow.
 
 <br>
 
-<p style='font-size:20px'>David Harvey,, *A Companion to Marx's* Capital, 30 (referring to *Capital*, chapter 1, section 3: The Value-Form)</p>
+<p style='font-size:20px'>David Harvey, *A Companion to Marx's* Capital, 30 (referring to *Capital*, chapter 1, section 3: The Value-Form)</p>
 
 ---
  
@@ -56,6 +63,21 @@ The social statistics of Germany and the rest of Continental Western Europe, are
 
 ---
 
+Now, however, we have to perform a task never even attempted by bourgeois economics. That is, we have to show the origin of this money form, we have to trace the development of the expression of value contained in the value-relation of commodities from its simplest, almost imperceptible outline to the dazzling money-form. When this has been done, the mystery of money will immediately disappear.
+
+<br>
+
+[...]
+
+<br>
+
+The whole mystery of the form of value lies hidden in this simple form. 
+
+<br>
+
+<p style='font-size:20px'> Karl Marx, " *Capital*, Vol.1, 1867 (trans. Ben Fowkes), 139.</p>
+
+---
 
 ![image](../images/forma-english.png)
 ![image](../images/forma-german.png)  
@@ -71,13 +93,6 @@ Left to right: *Capital* Vol.1, 162, *Das Kapital* (1872) 46
 
 ---
 
-
-![image](../images/forma-english.png)  
-<span class="fragment"> ![image](../images/formb-english.png)</span>  
-<span class="fragment"> ![image](../images/formc-just-english.png)</span> <span class="fragment"> ![image](../images/money-form-just-english.png)  </span>  
-Top to bottom:  A (Simple), B (Total), C (General), and D (Money) Form of Value, *Capital* vol. 1, 139, 154-5,157, 162
-
----
 
 ![image](../images/forma-german.png)  
 <span class="fragment"> ![image](../images/formb-german.png)</span>  
@@ -113,7 +128,7 @@ Left to right : *Das Kapital* 735, *Capital* Vol.1,  859
 
 ---
 
-We saw from Table E that during 1864, out of a total profit of 4,368,610, three money-grubbers pocketed only 262,610. 
+We saw from Table E that during 1864, out of a total profit of £ 4,368,610, three money-grubbers pocketed only £ 262,610. 
 [...] But the lion's share of the yearly national rental which an inconceivably small number of land magnates in England, Scotland, and Ireland swallow up is so monstrous that English statesmanship finds it inappropriate to afford the same statistical materials about the distribution of rents as about the distribution of profits. Lord Dufferin is one of those land magnates. The rent-rolls and profits can ever be 'excessive' or that the plethora of rent-rolls and profits is in any way connected with the plethora of popular miseries, is of course, an idea as 'disreputable' as it is unsound'. 
   
 <br>
