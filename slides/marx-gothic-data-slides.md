@@ -137,14 +137,8 @@ We saw from Table E that during 1864, out of a total profit of £ 4,368,610, thr
 
 ---
 
-![image](../images/farms.png)  
-Marx, *Capital* Vol.1, 869
-
----
 
 And, as appetite grows with eating, Rent Roll's eyes will soon discover that Ireland with 3 1/2 millions, still continues to be miserable, miserable because she is overpopulated.  
-
-<br>
 
 <span style='font-size:20px'> Marx, *Capital* Vol.1, 869 </span>
 
