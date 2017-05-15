@@ -109,18 +109,18 @@ Top to bottom:  A (Simple), B (Total), C (General), and D (Money) Form of Value,
 
 ---
 
+![image](../images/dk-721-722-pagespread.png)  
+Marx,  *Das Kapital*  721-722
+
+---
 
 ![image](../images/housing.png)  
-Marx, Housing data  
+Marx, Housing data, detail 
 Top, left to right: Lincolnshire, *Das Kapital*  722, *Capital* Vol.1,  846-847  
 Bottom: Kent *Das Kapital*  722, *Capital* Vol.1,  846-847
 
 ---
 
-![image](../images/dk-721-722-pagespread.png)  
-Marx,  *Das Kapital*  721-722
-
----
 
 ![image](../images/tableD-small.png)   
 ![image](../images/tableE-small.png)  
