@@ -122,7 +122,7 @@ Bottom: Kent *Das Kapital*  722, *Capital* Vol.1,  846-847
 ---
 
 
-![image](../images/tableD-small.png)   
+![image](../images/tableD-small.PNG)   
 ![image](../images/tableE-small.png)  
 Top to bottom, left to right:  
 "Table D The Income Tax on Subjoined Income, in Pounds Sterling,"   
