@@ -131,17 +131,9 @@ Left to right : *Das Kapital* 734-735, *Capital* Vol.1,  858-9
 
 ---
 
-![image](../images/tableD.png)  
-![image](../images/tableE-full.png) ![image](../images/avg.png)    
-Top to bottom, left to right:  
-Table D The Income Tax on Subjoined Income, in Pounds Sterling,  
-Table E: Schedule D Income from Profits (over 60 £) in Ireland,  
-Average Weekly Cost of Maintenance Per Head, *Das Kapital* 735, *Capital* Vol.1,  858, 859, 863
-
----
 
 We saw from Table E that during 1864, out of a total profit of £ 4,368,610, three money-grubbers pocketed only £ 262,610. 
-[...] But the lion's share of the yearly national rental which an inconceivably small number of land magnates in England, Scotland, and Ireland swallow up is so monstrous that English statesmanship finds it inappropriate to afford the same statistical materials about the distribution of rents as about the distribution of profits. Lord Dufferin is one of those land magnates. The rent-rolls and profits can ever be 'excessive' or that the plethora of rent-rolls and profits is in any way connected with the plethora of popular miseries, is of course, an idea as 'disreputable' as it is unsound'. 
+[...] But the lion's share of the yearly national rental which an inconceivably small number of land magnates in England, Scotland, and Ireland swallow up is so monstrous that English statesmanship finds it inappropriate to afford the same statistical materials about the distribution of rents as about the distribution of profits. Lord Dufferin is one of those land magnates. The rent-rolls and profits can ever be 'excessive' or that the plethora of rent-rolls and profits is in any way connected with the plethora of popular miseries, is of course, an idea as 'disreputable' as it is 'unsound'. 
   
 <br>
 
