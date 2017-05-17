@@ -112,6 +112,16 @@ Top to bottom:  A (Simple), B (Total), C (General), and D (Money) Form of Value,
 ![image](../images/dk-721-722-pagespread.png)  
 Marx,  *Das Kapital*  721-722
 
+
+---
+
+![image](../images/tableD.png)  
+![image](../images/tableE-full.png) ![image](../images/avg.png)    
+Top to bottom, left to right:  
+Table D The Income Tax on Subjoined Income, in Pounds Sterling,  
+Table E: Schedule D Income from Profits (over 60 £) in Ireland,  
+Average Weekly Cost of Maintenance Per Head, *Das Kapital* 735, *Capital* Vol.1,  858, 859, 863
+
 ---
 
 ![image](../images/housing.png)  
