@@ -34,10 +34,14 @@ Note: This will only appear in the speaker notes window.
 
 ## What *is* Digital Humanities?
 
-Visit[ https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com/) and refresh the link a few times
+Visit[ https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com/) 
+Refresh the link a few times
 
 
 
 ## For next class...
 
-Content 3.2
+- Daniel Rosenberg's "Data before the Fact" ![image](images/rosenberg.png)
+- Edith Rickert, from *New Methods for Study of Literature* (1927) ![image](images/r
+- ickert.png)
+						
