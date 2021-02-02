@@ -41,6 +41,6 @@ Refresh the link a few times
 
 ## For next class...
 
-- 1) Daniel Rosenberg's "Data before the Fact" ![image](images/rosenberg.png)
-- 2) Edith Rickert, from *New Methods for Study of Literature* (1927) ![image](images/rickert.png)
+![image](images/rosenberg.png)
+![image](images/rickert.png)
 						
