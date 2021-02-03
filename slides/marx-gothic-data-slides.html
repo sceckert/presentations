@@ -1,26 +1,17 @@
 <!doctype html>
-<html>
+<html lang="en">
+
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Presentations</title>
+		<title>Marx's Gothic Data</title>
 
-		<link rel="stylesheet" href="../css/reveal.css">
-		<link rel="stylesheet" href="../css/theme/serif2.css">
+		<link rel="stylesheet" href="../dist/reveal.css">
+		<link rel="stylesheet" href="../dist/theme/serif2.css" id="theme">
 
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="../lib/css/zenburn.css">
-
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? '../css/print/pdf.css' : '../css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
+        <link rel="stylesheet" href="../plugin/highlight/monokai.css">
 	</head>
+
 	<body>
 		<div class="reveal">
 			<div class="slides">
@@ -150,7 +141,7 @@ Marx, <em>Capital</em> Vol.1, 868
 <p>These slides were made using <a href="https://github.com/hakimel/reveal.js/">reveal.js</a> by Hakim El Hattab.</p>
 </section>
 <section id="references" class="slide level2">
-<h1>References</h1>
+<h2>References</h2>
 <p style="font-size:20px;">
 Brooks, Peter. <em>The Melodramatic Imagination: Balzac, Henry James, Melodrama, and the Mode of Excess.</em> Yale University Press, 1976. Print.
 </p>
@@ -196,21 +187,24 @@ Williams, Raymond. <em>Politics and Letters: Interviews with New Left Review.<
 			</div>
 		</div>
 
-		<script src="../lib/js/head.min.js"></script>
-		<script src="../js/reveal.js"></script>
+		<script src="../dist/reveal.js"></script>
+        <script src="../plugin/markdown/markdown.js"></script>
+        <script src="../plugin/highlight/highlight.js"></script>
+        <script src="../plugin/notes/notes.js"></script>
 
 		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
+
 			Reveal.initialize({
-				dependencies: [
-					{ src: '../plugin/markdown/marked.js' },
-					{ src: '../plugin/markdown/markdown.js' },
-					{ src: '../plugin/notes/notes.js', async: true },
-					{ src: '../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
+
 		</script>
+
 	</body>
 </html>
+
