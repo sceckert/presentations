@@ -41,6 +41,6 @@ Refresh the link a few times
 
 ## For next class...
 
-![image](images/rosenberg.png)
-![image](images/rickert.png)
+![image](../images/rosenberg.png)
+![image](../images/rickert.png)
 						
