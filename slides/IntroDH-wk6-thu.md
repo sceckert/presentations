@@ -31,7 +31,7 @@ Open a text editor (TextEdit, Notepad, BBEdit, Atom), and type the following:
 	<body>
 	<h1>[Your name here]'s First Heading</h1>
 	<p>[Your name here]'s first paragraph.</p>
-	<p> Here's a <a href="https://sceckert.github.io/IntroDHSpring2021/">link.</a> to our course.</p>
+	<p> Here's a <a href="https://sceckert.github.io/IntroDHSpring2021/">link</a> to our course.</p>
 	</body>
 	</html> 
   </script></code></pre>
@@ -66,6 +66,11 @@ You can filter text (show text filter)
 You can facet (show facet)
 
 And it can be REALLY handy for collecting data that is stored in webpages. 
+
+Before we go on: ETHICS OF WEBSCRAPING
+When we're dealing with publicly available data. What do we think are some fo the tricky things to consider
+
+My philosophy: erring on the side of scraping material that has **already** be published elsewhere and is out of copyright
 
 
 
@@ -377,6 +382,7 @@ Now we're going to extract the lyrics from this soup of HTML:
 </section>
 
 ![image](../images/OpenRefine10a.png)
+
 
 
 ## Let's tidy up!
