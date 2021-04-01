@@ -195,7 +195,14 @@ When GitHub compares versions, it is a line-by-line comparison. For this reason 
 - Type <pre><code> git clone URL-OF_GITHUB_REPO</code></pre>
 
 
-## To add a collaborator to a remote repository
+## To add a collaborator to your remote repository
+
+- Navigate to the repo on GitHub
+- Click the "Settings" icon (a gear)
+- In the lefthand menu, click "Manage access"
+- Scroll down to invite a collaborator
+- This will allow you both to pull and push to a repo without having to make a "fork" (a copy of the repository) and pull request
+
 
 ## Authoring on GitHub
 
