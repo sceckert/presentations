@@ -101,7 +101,7 @@ The first thing you should do when you install Git is to set your **user name** 
   </code></pre> 
 
 - To set the name of your main "branch", as "main", type:
-  <pre><code>git branch -M main <pre><code>
+  <pre><code>git branch -M main </code></pre>
 - To check the status of your different layers:
   <pre><code>
 	git status
@@ -195,6 +195,7 @@ When GitHub compares versions, it is a line-by-line comparison. For this reason 
 - Type <pre><code> git clone URL-OF_GITHUB_REPO</code></pre>
 
 
+## To add a collaborator to a remote repository
 
 ## Authoring on GitHub
 
