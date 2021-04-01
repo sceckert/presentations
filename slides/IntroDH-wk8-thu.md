@@ -1,4 +1,4 @@
-# Week 8: Practicum
+# Week 8: Text Analysis, Intro to Git and GitHub
 
 ## Agenda
 
