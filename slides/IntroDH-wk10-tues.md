@@ -25,6 +25,9 @@ What were some of the issues in this kind of chart?
 ![image](../images/Drucker1.png)
 
 
+![image](../images/Drucker4.png)
+
+
 
 What are the differences between these charts?
 ![image](../images/Drucker2.png)
@@ -47,8 +50,11 @@ Note:
  - Can all data be represented in this more fluid/abstract style? Does introducing visual ambiguity create the risk of a different type of visual misinterpretation of the ambiguity itself? (SOPHIE)
 - Does adding more data and context really aid in humanistic Interpretation( GRANT)
 - What would it look like to create a "parallax" view (HIEN)
+- Could we think about alternative techniques for visualizing these questions?
+	- What about techniques for visualizing undertaintiy and ambiguity? 
+	- Some of you brought up the question of CLARITY, and I was really interested in this. Do we think there are issues that come up in trying to visualize complexity? (GRACE, HIEN)
 
-![](/Users/sceckert/Desktop/Screen%20Shot%202021-04-07%20at%2011.56.01%20AM.png)
+
 
 ## Data Visualization and Methods
 
@@ -71,7 +77,7 @@ In groups, discuss the visualization choices in one of the following:
 
 - Preservation of Favoured Traces (https://fathom.info/traces/)
 - Wind Map (http://hint.fm/wind/)
-- Dear Data ()
+- Dear Data (https://www.dear-data.com/theproject)
 
 
 ## Types of Data Visualizations
@@ -90,9 +96,18 @@ https://rawgraphs.io/
 	- [Introduction to Python: Pandas](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week5/python-continued.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week5/python-continued.ipynb)
 		- Making simple bar and pie charts using pandas data
 	- Hunches, Hypotheses, and Exploratory Data Analysis with Pandas
-		- [Making simple scatter plots](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)
+		- [Making simple scatter plots (3 examples)](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)
 		- Making more complex static scatter plots (scroll down to bottom)
 		- Making an interactive scatter plot using Altair
 	- Introduction to Topic Modeling, visualizing topic models
 		- [Making a heat map to visualize topics in a set of texts](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb) (Scroll down to the bottom)
-		
+
+
+## Review Exercise: visualization 
+
+In groups, look back at data visualizations 
+
+- Group 1:  Hunches, hypotheses, and exploratory data analysis
+	- - [Making simple scatter plots (3 examples)](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)
+-  Group 2: Introduction to Topic Modeling, visualizing topic models
+		- [Making a heat map to visualize topics in a set of texts](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)
