@@ -64,11 +64,10 @@ The following 4 images are all from the same dataset of citations in the journal
 
 ## Introduction to Data Visualization in Altair
 
-Visit: https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week10/interactive-data-visualization-in-altiar.ipynb
+Visit: [https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week10/introduction-to-data-visualization-in-altair.ipynb](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week10/introduction-to-data-visualization-in-altair.ipynb)
 
 
-STATIC VERSION: https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/interactive-data-visualization-in-altiar.ipynb
-
+STATIC VERSION: [https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/introduction-to-data-visualization-in-altair.ipynb](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/introduction-to-data-visualization-in-altair.ipynb)
 
 
 ## Choose Your Own Data Visualization Adventure
