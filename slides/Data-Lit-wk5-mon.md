@@ -1,7 +1,7 @@
 
 ## Agenda
 
-https://docs.google.com/document/d/1BZN6ilrE2hzRvXvmmeoUyLeGBrBDKNuhTvxHIdSwh_M/edit?usp=sharing
+
 
 ## What is text encoding
 
