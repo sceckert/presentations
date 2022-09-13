@@ -123,7 +123,12 @@ Note:
 ## A (Very Brief) History of Humanities Computing
 
 
-- 1951: Father Busa + his team of punchcard operators work on the *Index Thomisticus*  in a partnership with IBM
+- 1927: Edith Rickert (professor of English at the University of Chicago) publishes *New Methods for the Study of Literature* based on her work as a cryptographer in the Code and Cipher section of Military Intelligence in WWI.
+
+![!image](../images/busa-card.png) ![image](../images/chart-Rickert.png)
+
+
+- 1951: Father Busa + his team of punchcard operators work on the *Index Thomisticus*  in a partnership with IBM - see [Reconstructing the First Humanities Computing Center](http://www.recaal.org/)
 
 ![!image](../images/busa-card.png) ![image](../images/busa-punch-card-operators.jpg)
 
@@ -138,7 +143,7 @@ Note:
 - 1970s: Work in statistical history, literary style, development of humanities programming languages like SNOBOL
 
 
-- 1980s/1990s Another branch; web-based platforms for sharing collections of texts, images and scans of primary documents
+- 1980s/1990s: Another branch; web-based platforms for sharing collections of texts, images and scans of primary documents
 
 Oxford Text Archive, founded in 1978 by Susan Hocky and Lou Burnay
 ![image](../images/ota.png)
