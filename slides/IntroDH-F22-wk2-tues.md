@@ -125,7 +125,7 @@ Note:
 
 - 1927: Edith Rickert (professor of English at the University of Chicago) publishes *New Methods for the Study of Literature* based on her work as a cryptographer in the Code and Cipher section of Military Intelligence in WWI.
 
-![!image](../images/busa-card.png) ![image](../images/chart-Rickert.png)
+![image](../images/chart-Rickert.png)
 
 
 - 1951: Father Busa + his team of punchcard operators work on the *Index Thomisticus*  in a partnership with IBM - see [Reconstructing the First Humanities Computing Center](http://www.recaal.org/)
