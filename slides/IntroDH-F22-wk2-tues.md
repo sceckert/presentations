@@ -165,10 +165,14 @@ Blake Archive, 1996
 ![image](../images/tei.jpg)
 
 
-- 1990s/200s: centers founded, like MITH and CHNM
+- 1991: The Center for Electronic Texts in the Humanities established by Princeton and Rutgers
+![image](../images/CETH-journals.jpg)
+
+
+- 1990s/2000s: centers founded, like MITH and CHNM
 	- Example: the two centers McPherson talks about
-		- Maryland Institute for Technology in the Humanities 
-		- The Roy Rozenrweig Center for History and New Media
+		- Maryland Institute for Technology in the Humanities (MITH)
+		- The Roy Rozenrweig Center for History and New Media (CHNM)
 
 
 - 2014 - Princeton's Center for Digital Humanities founded
