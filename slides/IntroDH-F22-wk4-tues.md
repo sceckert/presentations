@@ -69,10 +69,15 @@ https://github.com/the-pudding/data
 
 ## Mimi Onuoha's "Missing Data"
 
+https://mimionuoha.com/the-library-of-missing-datasets
 ![Images](../images/library.png)
+
+https://github.com/MimiOnuoha/missing-datasets
 ![Images](../images/missing-data.png)
 
 
+
+["The Library of Missing Data, v 2.0" (2018)](https://mimionuoha.com/the-library-of-missing-datasets-v-20)
 ![images](../images/onuoha.png)
 
 
