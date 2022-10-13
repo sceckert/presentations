@@ -96,6 +96,7 @@ Or you could try to partially automate the process.
 
 
 **Compare with the URL for Beyoncé's album, *I Am...Sasha Fierce* (2008)** 
+
 https://genius.com/albums/Beyonce/I-Am-Sasha-Fierce
 
 What do you think the URL would look like for her album, *B'Day* (2006)?
@@ -136,7 +137,7 @@ Because we know that Genius URLs for follow a standard convention, we can use th
 5. In the box that appears, enter "album_tracklist_url" for the new column name. Then, we're type in some lightweight code to take the values from our columns **artist** and **album** and turn them into parts of URLs. Paste the code below into the Expression box
 <section>
   <pre><code>
-	"https://genius.com/albums/" + value.escape('url') + "/" +cells['album'].value.escape('url')"
+	"https://genius.com/albums/" + value.escape('url') + "/" +cells['album'].value.escape('url')
   </code></pre>
 </section>
 
@@ -145,7 +146,7 @@ Because we know that Genius URLs for follow a standard convention, we can use th
 Note:
 Here, we're using a language called General Refine Expression Language to stitch together a URL: the first part "https://genius.com/albums/" is part the, `value` is a pre-sent variable -- it takes whatever value is in the starting column. We do the same thing to the `value` in the column labeled `Album`
 
-We should get something like: https://genius.com/albums/artist_name/albumn_name
+We should get something like: https://genius.com/albums/artist_name/album_name
 
 
 
@@ -266,7 +267,7 @@ Now let's extract the URLs links to the song lyrics pages:
 12.  Then, enter "song_titles_urls" for the new column name and paste the following text in the window:
 <section>
   <pre><code>
-	forEach(value.parseHtml().select("a[href].u-display_block"),e,e.htmlAttr("href")).join(" ||| ")
+	forEach(value.parseHtml().select("a[href].u-display_block"),e,e.htmlAttr("href")).join("|||")
   </code></pre>
 </section>
 
@@ -298,7 +299,7 @@ Notice all of those `|||`s? We can use them as delimiters to split up our data s
 
 We can split up our data so each song is on its own row: 
 
-14. Click on the triangle in the "song_titles"" column, and select "Edit cells" and then, "Split multi-valued cells..."
+14. Click on the triangle in the "song_titles" column, and select "Edit cells" and then, "Split multi-valued cells..."
 
 ![image](../images/OpenRefine7.png)
 
@@ -309,7 +310,7 @@ We can split up our data so each song is on its own row:
 
 Repeat these steps for "song_titles_urls"
 
-16. Click on the triangle in the "song_titles_urls_"" column, and select "Edit cells" and then, "Split multi-valued cells..."
+16. Click on the triangle in the "song_titles_urls" column, and select "Edit cells" and then, "Split multi-valued cells..."
 17. Then, in the window that pops up, enter `|||` as the separator. 
 
 
@@ -317,7 +318,7 @@ Repeat these steps for "song_titles_urls"
 Now, let's make sure that the metadata is copied over to these new rows:
 
 18. Click on the triangle in the column "artist" and select "Edit cells" and then "Fill down"
-19. Repeat this step for "album," "album_tracklist_url," and "release_date_"
+19. Repeat this step for "album," "album_tracklist_url", and "release_date"
 ![image](../images/OpenRefine9.png)
 
 What happened? 
@@ -363,10 +364,11 @@ ANSWER:
 The HTML element for the lyrics is:
 <section>
   <pre><code>
-	p
+	div.Lyrics__Container-sc-1ynbvzw-6
   </code></pre>
 </section>
 
+If you scroll down, you might find that each verse has its own container, so we'll need to iterate over all appearances of this tag to get them all on the page.
 
 
 ### Extracting text from an HTML page
@@ -377,7 +379,7 @@ Now we're going to extract the lyrics from this soup of HTML:
 25.  Then, enter "song_lyrics" for the new column name and paste the following text in the window:
 <section>
   <pre><code>
-	value.parseHtml().select("p")[0].htmlText()
+	forEach(value.parseHtml().select("div.Lyrics__Container-sc-1ynbvzw-6"),e,e.htmlText()).join("|")
   </code></pre>
 </section>
 
@@ -407,9 +409,13 @@ OpenRefine keeps a running record of every action you take, and allows you to st
 
 ## Advanced stuff you can do with OpenRefine
 
+
 - Walk backward through the steps you've taken using UNDO/REDO
 - Parse much larger datasets
 - Work with data from other sources (like JSON)
+
+Web-scraping with OpenRefine helps you understand the different layers needed to perform more compact web-scraping queries. Python has a simple but powerful library for Web-scraping called "Beautiful Soup" that allows us to perform many of the steps in web scraping. Like using OpenRefine, you have to know what sources come from what other sources in order to understand the different steps necessary to fetch data from a source like a webpage.
+
 
 If you're interested in learning more, or think that you might want to use web scraping or OpenRefine in your own project, I've put [a document on our course website with additional tricks and tips](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/advanced-tips-for-webscraping.md)
 
