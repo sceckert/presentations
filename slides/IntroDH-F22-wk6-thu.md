@@ -411,6 +411,6 @@ OpenRefine keeps a running record of every action you take, and allows you to st
 - Parse much larger datasets
 - Work with data from other sources (like JSON)
 
-If you're interested in learning more, or think that you might want to use web scraping or OpenRefine in your own project, I've put [a document on our course website with additional tricks and tips](advanced-tips-for-webscraping.md)
+If you're interested in learning more, or think that you might want to use web scraping or OpenRefine in your own project, I've put [a document on our course website with additional tricks and tips](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/advanced-tips-for-webscraping.md)
 
 
