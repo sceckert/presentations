@@ -1,6 +1,6 @@
 # Week 12
 
-#### Thu, Dec 8 -- Final Class
+#### Thu, Dec 8 -- Our Final Class
 
 
 
@@ -15,29 +15,13 @@
 ## Presentations
 
 ##### Each of your presentations will be capped at 10 minutes.   
-##### Aim for around 7 minutes, w/ 5 minutes of Q&A: 
-
-* Presentation 1: 9:35 - 9:47
-* Presentation 2: 9:47 - 9:59
-* Presentation 3: 9:59 - 10:11
-* Presentation 4: 10:11 - 10:23
-* Presentation 5: 10:23 - 10:35
+##### Aim for around 8 minutes, w/ 5 minutes of Q&A: 
 
 * Presentation 1: 9:35 - 9:50
 * Presentation 2: 9:50 - 10:05
 * Presentation 3: 10:05 - 10:20
 * Presentation 4: 10:20 - 10:35
 * Presentation 5: 10:35 - 10:50
-
-Note:
-David
-Grant & Kai
-Amber
-Austin
-Sophie and José Pablo
-Hien and Josh
-Grace
-
 
 
 ## Course Reflection 
@@ -49,10 +33,10 @@ Grace
 ## THANK YOU!!
 
 #### In the next few days, please remember to: 
-- Turn in your 4-5 page Final Project Reflection Papers by 11:59PM on May 5th: https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/final-project-papers.md
-- Fill out the official Princeton ***COURSE EVALUATION*** for this class
-- Complete our (anonymous) course-specific survey:
-	- https://forms.gle/gfxNuVxwHVaCtzA68
+1. Turn in your 4-5 page [Final Project Reflection Papers](https://github.com/sceckert/IntroDHSFall2022/blob/main/_assignments/final-project-papers.md) by 11:59PM on Dec 16th: 
+2. Fill out the official Princeton ***COURSE EVALUATION*** for this class
+3. Complete our (anonymous) **course-specific survey**:
+	- https://tinyurl.com/IntroDHCourseSurvey
 
 ### ![images](../images/pusheen-balloons.png)
 
